@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T08:51:53.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="RVJGq5hCYzPzPqnLxyfC" version="15.9.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-14T09:31:32.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_4JXEAid8hlY8vK7JQYK" version="15.9.6" type="github" pages="5">
   <diagram id="8IfeXw4iu5hIM_P0nCsx" name="نمودار سطح 0">
-    <mxGraphModel dx="1623" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -999,7 +999,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7xFJ2904hhOIDTeLGYai" name="نمودار کلاس دیاگرام ">
-    <mxGraphModel dx="8441" dy="3202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+    <mxGraphModel dx="7025" dy="2358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
         <mxCell id="U6Rdak88alZCdAhyZTcb-0" />
         <mxCell id="U6Rdak88alZCdAhyZTcb-1" parent="U6Rdak88alZCdAhyZTcb-0" />
@@ -1101,7 +1101,7 @@
         <mxCell id="7AHwqi1a4x4eQQA3N0b0-20" value="&lt;span style=&quot;font-size: 22px&quot;&gt;setActiveFund()&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=26;fontColor=#46495D;" parent="GxMa0H-XSbTCGv7PFVS1-15" vertex="1">
           <mxGeometry x="10" y="684" width="164" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_TJuO8vLwlgrN3rfJ470-1" value="&lt;span style=&quot;font-size: 22px&quot;&gt;filteroperationusees(all_users,loans_turn,settlement_req,indentory_members)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=26;fontColor=#46495D;" vertex="1" parent="GxMa0H-XSbTCGv7PFVS1-15">
+        <mxCell id="_TJuO8vLwlgrN3rfJ470-1" value="&lt;span style=&quot;font-size: 22px&quot;&gt;filteroperationusees(all_users,loans_turn,settlement_req,indentory_members)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=26;fontColor=#46495D;" parent="GxMa0H-XSbTCGv7PFVS1-15" vertex="1">
           <mxGeometry x="-58" y="716" width="902" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDq1YEhuP_u2DkRlmslt-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;endArrow=block;endFill=0;strokeColor=#B5B5B5;strokeWidth=2;" parent="U6Rdak88alZCdAhyZTcb-1" source="GxMa0H-XSbTCGv7PFVS1-50" target="VDq1YEhuP_u2DkRlmslt-141" edge="1">
@@ -1293,6 +1293,9 @@
         </mxCell>
         <mxCell id="OmmW3uniHdtAeQ_lZFZN-5" value="&lt;span style=&quot;font-size: 22px&quot;&gt;store(LoanRequest $request)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=26;fontColor=#46495D;" parent="VDq1YEhuP_u2DkRlmslt-2" vertex="1">
           <mxGeometry x="-45" y="750" width="404" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="slfdFB1xD49rn-tOkVvB-0" value="&lt;span style=&quot;font-size: 22px&quot;&gt;historyLoans(loan_id)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=26;fontColor=#46495D;" vertex="1" parent="VDq1YEhuP_u2DkRlmslt-2">
+          <mxGeometry x="-5" y="780" width="244" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VDq1YEhuP_u2DkRlmslt-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;endArrow=block;endFill=0;strokeColor=#B5B5B5;strokeWidth=2;" parent="U6Rdak88alZCdAhyZTcb-1" source="GxMa0H-XSbTCGv7PFVS1-18" target="VDq1YEhuP_u2DkRlmslt-51" edge="1">
           <mxGeometry relative="1" as="geometry">
