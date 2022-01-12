@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T07:18:40.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="KjHaLpwSWLelIdY-YYVh" version="15.9.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-12T04:52:31.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QadsJLXkpiCm7Vq_siOR" version="16.2.4" type="github" pages="6">
   <diagram id="8IfeXw4iu5hIM_P0nCsx" name="نمودار سطح 0">
-    <mxGraphModel dx="1302" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CujAB8lIGLSBdLoX-C32" name="نمودار سطح 1">
-    <mxGraphModel dx="6570" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="9088" dy="2655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="PNk5VYIVNwp4R9Rgvyvw-0" />
         <mxCell id="PNk5VYIVNwp4R9Rgvyvw-1" parent="PNk5VYIVNwp4R9Rgvyvw-0" />
@@ -528,7 +528,7 @@
             <mxPoint x="-1479.9999999999927" y="2455.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qW7ZxVHXi2N2t6IAYOdp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=27;" edge="1" parent="PNk5VYIVNwp4R9Rgvyvw-1" source="l3k0_DN2ld_AHBS1KAMx-36" target="ZV1myOeGdrI1ihptmQPn-6">
+        <mxCell id="qW7ZxVHXi2N2t6IAYOdp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=27;" parent="PNk5VYIVNwp4R9Rgvyvw-1" source="l3k0_DN2ld_AHBS1KAMx-36" target="ZV1myOeGdrI1ihptmQPn-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l3k0_DN2ld_AHBS1KAMx-36" value="&lt;font style=&quot;font-size: 17px&quot;&gt;محاسبه امتیازات&amp;nbsp; کاربر و تعیین اقساط&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="PNk5VYIVNwp4R9Rgvyvw-1" vertex="1">
@@ -810,7 +810,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="swhegptEaU6A18_obGMN" name="فرایند تنظیمات عمومی صندوق">
-    <mxGraphModel dx="5437" dy="-397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6814" dy="120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tZAMSThTIPxf0BlHSwMv-0" />
         <mxCell id="tZAMSThTIPxf0BlHSwMv-1" parent="tZAMSThTIPxf0BlHSwMv-0" />
@@ -899,7 +899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tdKzx97BQxU8Rf02bkls" name="فرایند وام">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4236" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_xwvI2GJA-u47FjsyWZt-0" />
         <mxCell id="_xwvI2GJA-u47FjsyWZt-1" parent="_xwvI2GJA-u47FjsyWZt-0" />
@@ -999,7 +999,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7xFJ2904hhOIDTeLGYai" name="نمودار کلاس دیاگرام ">
-    <mxGraphModel dx="8015" dy="2941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+    <mxGraphModel dx="12095" dy="4661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
         <mxCell id="U6Rdak88alZCdAhyZTcb-0" />
         <mxCell id="U6Rdak88alZCdAhyZTcb-1" parent="U6Rdak88alZCdAhyZTcb-0" />
@@ -2193,6 +2193,88 @@
         </mxCell>
         <mxCell id="I4nuP4LPR-OR_KlU1wQX-53" value="&lt;font style=&quot;font-size: 20px&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="U6Rdak88alZCdAhyZTcb-1" vertex="1">
           <mxGeometry x="-1630" y="2650" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_pNqBt0EjrcLZW_EO3nL" name="Page-6">
+    <mxGraphModel dx="2725" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-0" />
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-1" parent="HHg2zbTIuAFT-AFtKkvP-0" />
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-4" value="finish" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="HHg2zbTIuAFT-AFtKkvP-1">
+          <mxGeometry x="200" y="800" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-5" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="HHg2zbTIuAFT-AFtKkvP-1">
+          <mxGeometry x="200" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-6" target="HHg2zbTIuAFT-AFtKkvP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-6" target="HHg2zbTIuAFT-AFtKkvP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-6" value="1&amp;lt;=x&amp;lt;=4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HHg2zbTIuAFT-AFtKkvP-1">
+          <mxGeometry x="480" y="410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-8" target="HHg2zbTIuAFT-AFtKkvP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-8" value="5&amp;lt;=x&amp;lt;=8" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="HHg2zbTIuAFT-AFtKkvP-1">
+          <mxGeometry x="200" y="410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-11" target="HHg2zbTIuAFT-AFtKkvP-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="310" />
+              <mxPoint x="250" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-11" value="x=تعداد ما های نگه داری پول در صندوق&lt;br&gt;y=معدل حساب یا مینانگین معدل حشاب" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="HHg2zbTIuAFT-AFtKkvP-1">
+          <mxGeometry x="115" y="200" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="740" />
+              <mxPoint x="250" y="740" />
+              <mxPoint x="250" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-13" value="count=((x-1)*2)+6&lt;br&gt;amount=2*y&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="HHg2zbTIuAFT-AFtKkvP-1">
+          <mxGeometry x="470" y="570" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-14" value="&lt;span&gt;count=((x-5)*2)+6&lt;/span&gt;&lt;br&gt;&lt;span&gt;amount=2*y&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="HHg2zbTIuAFT-AFtKkvP-1">
+          <mxGeometry x="210" y="580" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HHg2zbTIuAFT-AFtKkvP-1" source="HHg2zbTIuAFT-AFtKkvP-15" target="HHg2zbTIuAFT-AFtKkvP-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="740" />
+              <mxPoint x="250" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHg2zbTIuAFT-AFtKkvP-15" value="&lt;span&gt;count=((x-9)*2)+6&lt;/span&gt;&lt;br&gt;&lt;span&gt;amount=2*y&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="HHg2zbTIuAFT-AFtKkvP-1">
+          <mxGeometry x="-10" y="580" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
